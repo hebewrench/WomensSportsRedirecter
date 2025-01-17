@@ -1,0 +1,350 @@
+# Sports teams that aren't also place names
+teams
+arsenal
+aston villa
+villa
+chelsea
+everton
+leicester city
+manchester city
+man city
+manchester united
+man u
+man united
+birmingham city
+bristol city
+brighton & hove albion
+brighton & hove
+brighton and hove
+brighton and hove albion
+tottenham hotspur
+spurs
+west ham united
+west ham
+blackburn rovers
+blackburn
+bristol city
+london city
+sheffield united
+crystal palace
+coventry united
+celtic
+dundee united
+hamilton academical
+hibernian
+glasgow city
+rangers
+glasgow rangers
+motherwell
+partick thistle
+spartans
+hearts of midlothian
+hearts
+ayr united
+boroughmuir thistle
+inverness caledonian thistle
+queen's park
+stirling university
+st johnstone
+edinburgh university
+montrose
+angel city fc
+chicago red stars
+north carolina courage
+houston dash
+kansas city current
+north carolina courage
+ol reign
+orlando pride
+portland thorns fc
+portland thorns
+san diego wave fc
+san diego wave
+seattle reign
+washington spirit
+atlético madrid
+real betis
+betis
+madrid cff
+villarreal
+deportivo la coruña
+granadilla tenerife
+real sociedad
+villarreal
+ea guingamp
+paris fc
+paris saint-germain
+psg
+eintracht frankfurt
+sc sand
+turbine potsdam
+vfl wolfsburg
+bayer leverkusen
+ac milan
+as roma
+fiorentina
+juventus
+napoli
+sassuolo
+aik
+fc rosengård
+ajax
+psv eindhoven
+fc twente
+bristol bears
+exeter chiefs
+gloucester-hartpury
+harlequins
+leicester tigers
+loughborough lightning
+sale sharks
+saracens
+trailfinders
+ampthill rugby
+bedford blues
+caldy
+chinnor
+cornish pirates
+coventry rugby
+doncaster knights
+ealing trailfinders
+hartpury university
+london scottish
+nottingham rugby
+adelaide strikers
+brisbane heat
+hobart hurricanes
+melbourne renegades
+melbourne stars
+perth scorchers
+sydney sixers
+sydney thunder
+
+# Sports terms that are place names, countries, cities, etc.
+places
+aberdeen
+cambridge
+durham
+essex
+hampshire
+lancashire
+nottinghamshire
+somerset
+surrey
+warwickshire
+barcelona
+glasgow
+wolfsburg
+reading
+birmingham
+brighton
+leicester
+tottenham
+bristol
+durham
+sunderland
+glasgow
+aberdeen
+dundee
+east fife
+falkirk
+kilmarnock
+levante
+málaga
+valencia
+bordeaux
+dijon
+guingamp
+lyon
+montpellier
+reims
+rodez
+soyaux
+bayern munich
+toulouse
+frankfurt
+freiburg
+hoffenheim
+köln
+meppen
+milan
+roma
+rosengård
+rosengard
+kristianstad
+linköping
+linkoping
+piteå
+pitea
+göteborg
+umeå
+albania
+austria
+argentina
+australia
+brazil
+belgium
+canada
+colombia
+united states
+china
+china pr
+england
+scotland
+wales
+ireland
+france
+germany
+india
+italy
+japan
+netherlands
+nigeria
+sweden
+finland
+norway
+denmark
+iceland
+new zealand
+south africa
+spain
+sweden
+usa
+nigeria
+gibraltar
+zambia
+tanzania
+morocco
+liechtenstein
+senegal
+dr congo
+congo
+tunisia
+botswana
+ghana
+mali
+estonia
+loas
+saudi arabia
+korea dpr
+north korea
+south korea
+korea republic
+portugal
+switzerland
+russia
+poland
+czechia
+mexico
+serbia
+ukraine
+vietnam
+chile
+slovenia
+jamaica
+phillipines
+chinese taipei
+costa rica
+northern ireland
+thailand
+hungary
+paraguay
+romania
+slovakia
+belarus
+uzebekistan
+venezuela
+haiti
+myanmar
+papua new guinea
+panama
+greece
+croatia
+turkey
+bosnia and herzegovina
+bosnia
+uruguay
+ecaudor
+iran
+cameroon
+ivory coast
+côte d'ivoire
+fiji
+azerbaijan
+peru
+trinidad and tobago
+trinidad
+tobago
+guatemala
+hong kong
+equatorial guinea
+senegal
+algeria
+puerto rico
+malta
+solomon islands
+montenegro
+guyana
+el salvador
+cuba
+egypt
+bahrain
+kosovo
+tonga
+bulgaria
+indonesia
+guam
+samoa
+domincan republic
+malaysia
+nepal
+new caledonia
+bolivia
+kazakhstan
+lithuania
+congo dr
+faroe islands
+nicaragua 
+tahiti
+cook islands
+uae
+united arab emirates
+latvia
+cambodia
+
+# General sports-related terms
+sports
+football
+soccer
+rugby
+badminton
+pingpong
+ping pong
+table tennis
+basketball
+tennis
+volleyball
+handball
+cricket
+golf
+hockey
+ice hockey
+boxing
+water polo
+softball
+lacrosse
+floorball
+american football
+gaelic football 
+
+# Additional sports terms (e.g., competitions, keywords)
+additional sports terms
+vs
+club
+match
+league
+tournament
+team
+game
+fc
+world cup
